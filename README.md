@@ -2,8 +2,6 @@
 
 - 💻 Desenvolvedor Front-End
 
-- 👨‍💻 Desde criança eu sempre fui apaixonado por tecnologia, então decidi trilhar um caminho no ramo da programação.
-
 - 🔭 Atualmente estou me aprofundando na área de desenvolvimento back-end, estudando especificamente Nodejs. Como um grande fascinado por desenvolvimento de software, tenho muito interesse em aprender e me qualificar em novas tecnologias.
 
 - ⚡ A tecnologia é a minha maneira de mudar o mundo e é por isso que amo o que eu faço!
