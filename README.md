@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Front-End
 
-- 🔭 Atualmente estou me aprofundando na área de desenvolvimento back-end, estudando especificamente Nodejs. Como um grande fascinado por desenvolvimento de software, tenho muito interesse em aprender e me qualificar em novas tecnologias.
+- 🔭 Atualmente estou trabalhando como desenvolvedor de software na LogLab, atuando especificamente com frontend, utilizando tecnologias como Next.JS, TypeScript, Docker e Nodejs. 
 
 - ⚡ A tecnologia é a minha maneira de mudar o mundo e é por isso que amo o que eu faço!
 
